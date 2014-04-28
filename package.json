@@ -1,0 +1,11 @@
+{
+  "name": "OSMExcab",
+  "version": "0.0.1",
+  "description": "Extract administrative boundaries of a city from OSM API",
+  "bin": {
+    "osmexcab": "bin/extractCityAdministrativeBoundaries.js"
+  },
+  "dependencies": {
+    "optimist": "0.6.1"
+  }
+}
